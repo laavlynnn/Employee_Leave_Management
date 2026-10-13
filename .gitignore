@@ -22,3 +22,6 @@
 Homestead.json
 Homestead.yaml
 Thumbs.db
+/certs/
+.env.vercel
+.env.vercel.*
